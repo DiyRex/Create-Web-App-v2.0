@@ -1,0 +1,15 @@
+D:\Projects\C#\CWA 2.0\bin\Debug\net6.0\CWA 2.0.exe
+D:\Projects\C#\CWA 2.0\bin\Debug\net6.0\CWA 2.0.deps.json
+D:\Projects\C#\CWA 2.0\bin\Debug\net6.0\CWA 2.0.runtimeconfig.json
+D:\Projects\C#\CWA 2.0\bin\Debug\net6.0\CWA 2.0.dll
+D:\Projects\C#\CWA 2.0\bin\Debug\net6.0\CWA 2.0.pdb
+D:\Projects\C#\CWA 2.0\obj\Debug\net6.0\CWA 2.0.csproj.AssemblyReference.cache
+D:\Projects\C#\CWA 2.0\obj\Debug\net6.0\CWA 2.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\CWA 2.0\obj\Debug\net6.0\CWA 2.0.AssemblyInfoInputs.cache
+D:\Projects\C#\CWA 2.0\obj\Debug\net6.0\CWA 2.0.AssemblyInfo.cs
+D:\Projects\C#\CWA 2.0\obj\Debug\net6.0\CWA 2.0.csproj.CoreCompileInputs.cache
+D:\Projects\C#\CWA 2.0\obj\Debug\net6.0\CWA 2.0.dll
+D:\Projects\C#\CWA 2.0\obj\Debug\net6.0\refint\CWA 2.0.dll
+D:\Projects\C#\CWA 2.0\obj\Debug\net6.0\CWA 2.0.pdb
+D:\Projects\C#\CWA 2.0\obj\Debug\net6.0\CWA 2.0.genruntimeconfig.cache
+D:\Projects\C#\CWA 2.0\obj\Debug\net6.0\ref\CWA 2.0.dll
